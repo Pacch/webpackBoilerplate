@@ -1,0 +1,13 @@
+{
+    "name": "webpack",
+    "links": [
+        [
+            "webpack",
+            "index.html"
+        ],
+        [
+            "vanilla JS",
+            "hello-vanilla.html"
+        ]
+    ]
+}
