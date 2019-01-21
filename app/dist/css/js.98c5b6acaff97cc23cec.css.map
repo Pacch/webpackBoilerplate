@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/style.css","webpack:///./src/scss/main.scss"],"names":[],"mappings":"AAAA,KAAK,eAAe;;ACApB,KAAK","file":"css/js.98c5b6acaff97cc23cec.css","sourcesContent":["body{background:red;background-image:url(assets/social.png)}\n","body{color:blue}\n"],"sourceRoot":""}

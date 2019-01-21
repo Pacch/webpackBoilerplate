@@ -10,7 +10,7 @@ module.exports = {
     // vanilla: './src/hello_vanilla.js',
   },
   output: {
-    filename: '[name].[chunkhash].js'
+    filename: 'js/[name].[chunkhash].js'
   },
   devtool: 'source-map',
   module: {
@@ -67,7 +67,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin([path.resolve(__dirname,'dist/**/*.*')]),
     new MiniCssExtractPlugin({
-      filename: '[name].[chunkhash].css',
+      filename: 'css/[name].[chunkhash].css',
       chunkFilename: '[id].css'
     }),
     new HtmlWebpackPlugin({
