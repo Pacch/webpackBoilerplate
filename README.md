@@ -23,7 +23,7 @@ Build the current application
 ```sh
 $ npm run prod
 ```
--> creates prod files to <code>/dist</code> with:
+creates prod files to <code>/dist</code> with:
 
 
 1. compiles sass to css <br>
