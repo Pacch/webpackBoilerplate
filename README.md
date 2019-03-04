@@ -1,2 +1,6 @@
 # webpackBoilerplate
-ES6 > , SCSS  ,PUG , optimized files :D
+* BABEL JS
+* SASS
+* PUG MULTIPLE FILES PUG
+* OPTIMIZED FILES 
+* WEBPACK 4
